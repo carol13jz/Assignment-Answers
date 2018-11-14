@@ -1,6 +1,6 @@
 =begin
 I have created 3 rb files for classes Gene, Seed_stock and Cross, which are located in the same folder as this program.
-I have asked my classmates for help to define the function of chi_square and how to print the linked genes
+I have asked my classmates for help to show the gene names of the linked genes
 =end
 require './Gene'
 require './Seed_stock'
